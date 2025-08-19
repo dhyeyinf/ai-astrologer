@@ -2,6 +2,8 @@
 
 A sophisticated astrology app built with Streamlit, featuring a rule-based horoscope generator, interactive Plotly charts, and a cosmic Q&A system.
 
+Working Link: https://ai--astrologer.streamlit.app/
+
 ## Features
 - **Polished UI**: Clean Streamlit interface with vibrant cosmic styling.
 - **Comprehensive Horoscope**: Generates detailed profiles based on Sun, Moon (simulated), and Ascendant (simulated) signs, including traits, elements, and lucky numbers.
