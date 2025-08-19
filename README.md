@@ -42,7 +42,7 @@ A sophisticated astrology app built with Streamlit, featuring a rule-based horos
 - Built for reliability and visual appeal to stand out in intern selection.
 
 ## Demo Video
-A 2–5 minute video showcasing the app is included (link or in zip). It demonstrates:
+
 - Entering birth details (e.g., Rajkot, India).
 - Generating cosmic profile and charts.
 - Asking a question (e.g., "What’s my career like?") and viewing the response.
